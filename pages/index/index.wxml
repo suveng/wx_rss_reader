@@ -1,11 +1,10 @@
 <!--index.wxml-->
 <view class="container">
+<!-- 已订阅 -->
   <view class='subscribed'>
 
   </view>
-  <view class='not_subscribed'>
-
-  </view>
+  <!-- 推荐 -->
   <view class='recommend'>
 
   </view>
